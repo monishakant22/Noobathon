@@ -1,0 +1,20 @@
+margin: 0;
+padding: 0;
+ 
+ }
+ body{ 
+     <img src="qwerty.jpg">
+     background-size: cover;
+    background-attachment: fixed;
+ }
+  .conatiner{
+             width :50%;
+             margin:80px auto;
+            
+  }
+.conatiner h1{
+    padding :60px 0;
+    color:#fff;
+    font-size: 44px;
+    text-align:center :
+}
